@@ -8,7 +8,7 @@
 [![](https://lh3.googleusercontent.com/65bvDLgkpFKCec7MpSKfBkQII7PFc6LZ8hUuKNH0EyS9lLoKvu_YLYkm8FwcqtGDeqDXoa-eFJQB2qgwFVAB=w1163-h938)](https://drive.google.com/drive/folders/14ikSuvyYcKh3odfntSc-SAc77GHmYFGX?usp=sharing)
 ### `hello, World ❤️`<br>
 ## I’m **@hariprasd** <br>
- I’m a **UI UX (App, Web, Wearables), General Designer** *(3years)* <br>
+ I’m a **UI UX (App, Web, Wearables & Web3), General Designer** *(3years)* <br>
  Currently getting into **3D NFT creation & Motion Design** <br>
  Looking to collaborate on **UX Support and Design Projects** <br>
 
