@@ -8,7 +8,7 @@
 [![](https://lh5.googleusercontent.com/RgWbg506xbVqDePX7mljnfDUTV9uBSLzo5ySCPiorIN4rkyCMkaSDReswWSbI9WsDZDe8cgZ3WCyQ3XSNvoF=w1163-h938)](https://www.linkedin.com/in/hari-prasd/)
 <br>
 
-[![](https://lh6.googleusercontent.com/0d9KaC-qm818Qs52aCOM8okSaVpNYTK7KVHjYQhIQ8l21Sl306jVeCYYBP1ADuTUPtApFdgwSxfA5wr0z8_t=w1922-h938)](https://drive.google.com/drive/folders/14ikSuvyYcKh3odfntSc-SAc77GHmYFGX?usp=sharing)
+[![](https://lh5.googleusercontent.com/UpM914PeSVpSoq2BccwIYJ2-SchWIovk4kjKRlvfyIfdCMFOjWK128pnrIgzRWcolcGxE2uYpuoYmpOKQtx5=w1922-h938)](https://drive.google.com/drive/folders/14ikSuvyYcKh3odfntSc-SAc77GHmYFGX?usp=sharing)
 ### `hello, World ❤️`<br>
 ## I’m **@hariprasd** <br>
  I’m a **UI UX (App, Web, Wearables & Web3), General Designer** *(3years)* <br>
