@@ -6,7 +6,7 @@
 [![](https://lh6.googleusercontent.com/PAfEBeEF8vHUv7LsHHgQYah6Ho_dF_zeLilbZxxyYCaPOyql83FWL2iJVmeQCn1fgqcnWMt_T-xz6Pmrv95_=w1163-h938)](https://twitter.com/haripras_d) <br>
 
 [![](https://lh3.googleusercontent.com/65bvDLgkpFKCec7MpSKfBkQII7PFc6LZ8hUuKNH0EyS9lLoKvu_YLYkm8FwcqtGDeqDXoa-eFJQB2qgwFVAB=w1163-h938)](https://drive.google.com/drive/folders/14ikSuvyYcKh3odfntSc-SAc77GHmYFGX?usp=sharing)
-### `hello, World`<br>
+### `hello, World ❤️`<br>
 ## I’m **@hariprasd** <br>
  I’m a **UI UX, General Designer** *(3years)* <br>
  Currently getting into **3D NFT creation & Motion Design** <br>
