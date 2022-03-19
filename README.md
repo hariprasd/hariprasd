@@ -23,4 +23,4 @@ I have *3 year* experience in *UIUX Design* and I have *audited the Google's Pro
 ------
 Hari Prasad B © <br>
 
-[![](https://lh6.googleusercontent.com/97ZRsARAa42WPt9i9B0liPqu_ZFdGNixOtZehugH-uy7VMqf3FTPQOXCoJYJodoG_WhValSr8K9Jb3UN5UCw=w1163-h938)](#)
+[![](https://lh3.googleusercontent.com/4VUtYuFTcc3kE8OqK0zZXKUB3VEsmYSQo5CCkkfRdOg3BuS6_MBnQWL1x7-aJn9Z2_u9kyn-_3_BmZvkMjMO=w1922-h938)](#)
