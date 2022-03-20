@@ -19,7 +19,7 @@
 
 I have *4 years* of field experience and I have contributed to *15+ startups* in their growth as I always loved to *collaborate with the budding businesses & small scale startups*,
 I have *3 year* experience in *UIUX Design* and I have *audited the Google's Professional Course on UXD*, I am professional with *Figma, XD, Photoshop, Illustrator, Blender, InDesign, and a intermediatory level programming* <br><br>
-### **Contact for Collaborations ☝️**<br>
+### **Contact via links☝️ for Collaborations**<br>
 
 ------
 Hari Prasad B © <br>
