@@ -17,10 +17,20 @@
  & Contract based Projects
 
 ### **Personal Description:** <br>
+<details><summary>Click here</summary>
 
-I have *4 years* of field experience and I have contributed to *15+ startups* in their growth as I always loved to *collaborate with the budding businesses & small scale startups*,
-I have *3 year* experience in *UIUX Design* and I have *audited the Google's Professional Course on UXD*, I am professional with *Figma, XD, Photoshop, Illustrator, Blender, InDesign, and a intermediatory level programming* <br><br>
-### **Contact via links☝️ for Collaborations**<br>
+- I have *4 years* of field experience and I have contributed to *15+ startups* in their growth<br>
+- I always loved to *collaborate with the budding businesses & small scale startups*<br>
+- I have *3 year* experience in *UIUX Design* and I have *audited the Google's Professional Course on UXD*<br>
+- I am professional with *Figma, XD, Photoshop, Illustrator, Blender, InDesign, and a intermediatory level programming* <br><br>
+
+</details>
+
+
+
+### **Contact for Collaborations 👉** [^1] <br>
+[^1]: Click the Icons provided in the top, to navigate to respective Links 
+#### Mobile +91 9345160259
 
 ------
 Hari Prasad B © <br>
@@ -30,3 +40,4 @@ Hari Prasad B © <br>
 
 
 >This file is Optimized for Viewing with a **Verified Github account** ✅
+
