@@ -31,7 +31,7 @@
 <details><summary>Click here</summary>
           
 ```mermaid
-graph TD;
+graph LR;
     MiltonMatriculationSchool-SSLC-2017-->RKShreeRangammalKalviNilayam-HSC-2019;
     RKShreeRangammalKalviNilayam-HSC-2019-->AhaliaSchoolOfEngineeringAndTechnology-B.Tech-2019-23;
     ImageEditor&Designer-2019-20-->FreelanceDesigner-2020-21;
