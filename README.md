@@ -1,5 +1,5 @@
- ![](https://lh6.googleusercontent.com/oOfuzudpz6yHwk8uPlzQPW2JT5lBY6cvD-CZgmxMfX9XgL_enqWBnm16A_nzQWsbdHCeyl-uAPprR9lVWp-3=w1922-h938) <br>
-  
+ ![](https://i.ibb.co/10dSgyL/image-8.png) <br>
+ 
 [![](https://i.ibb.co/4SGzBnh/image-1.png)](https://www.facebook.com/hriprasd)
 [![](https://i.ibb.co/bJgKQ6Q/image-2.png)](https://instagram.com/haripras.d)
 [![](https://i.ibb.co/ByBZstv/image-3.png)](https://wa.me/c/919345160259)
@@ -14,6 +14,7 @@
  I’m a **UI UX (App, Web, Wearables & Web3), General Designer** *(3years)* <br>
  Currently getting into **3D NFT creation & Motion Design** <br>
  Looking to collaborate on **UX Support and Design Projects** <br>
+ & Contract based Projects
 
 ### **Personal Description:** <br>
 
@@ -24,8 +25,8 @@ I have *3 year* experience in *UIUX Design* and I have *audited the Google's Pro
 ------
 Hari Prasad B © <br>
 
-[![](https://i.ibb.co/N6429RC/HP-digital-Sign-white-1.png)](#)
+[![](https://i.ibb.co/N6429RC/HP-digital-Sign-white-1.png)](#) <br>
 
-```diff
-# Note : Optimized for Viewing with a Verified✅ Github account
-```
+
+
+>This file is Optimized for Viewing with a **Verified Github account** ✅
