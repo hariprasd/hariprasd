@@ -27,24 +27,15 @@
 
 </details>
 
-### **Education:** <br>
+### **Education & Career** <br>
 <details><summary>Click here</summary>
           
 ```mermaid
 graph TD;
     MiltonMatriculationSchool-SSLC-->RKShreeRangammalKalviNilayam-HSC;
     RKShreeRangammalKalviNilayam-HSC-->AhaliaSchoolOfEngineeringAndTechnology-B.Tech;
-```
-</details>
-
-### **Career:** <br>
-
-<details><summary>Click here</summary>
-           
-```mermaid
-graph TD;
     ImageEditor&Designer-2019-20-->FreelanceDesigner-2020-21;
-    FreelanceDesigner-2020-21-->UIUX-Designer-Incus.inc;
+    FreelanceDesigner-2020-21-->UIUX-Designer-Incus.inc-2021-Present;
 ```
 </details>
 
