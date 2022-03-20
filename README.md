@@ -29,7 +29,7 @@
 
 ### **Education & Career** <br>
 <details><summary>Click here</summary>
-          
+
 ```mermaid
 graph LR;
     MiltonMatriculationSchool-SSLC-2017-->RKShreeRangammalKalviNilayam-HSC-2019;
