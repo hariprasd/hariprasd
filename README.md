@@ -29,7 +29,7 @@
 
 ### **Education:** <br>
 <details><summary>Click here</summary>
- 
+
 ```mermaid
 graph TD;
     MiltonMatriculationSchool-SSLC-->RKShreeRangammalKalviNilayam-HSC;
@@ -40,14 +40,14 @@ graph TD;
 ### **Career:** <br>
 
 <details><summary>Click here</summary>
- 
+
 ```mermaid
 graph TD;
     ImageEditor&Designer-2019-20-->FreelanceDesigner-2020-21;
     FreelanceDesigner-2020-21-->UIUX-Designer-Incus.inc;
 ```
 </details>
- 
+
 ### **Contact for Collaborations 👉** [^1] <br>
 [^1]: Click the Icons provided in the top, to navigate to respective Links 
 #### Mobile +91 9345160259
