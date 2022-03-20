@@ -29,7 +29,7 @@
 
 ### **Education:** <br>
 <details><summary>Click here</summary>
-
+          
 ```mermaid
 graph TD;
     MiltonMatriculationSchool-SSLC-->RKShreeRangammalKalviNilayam-HSC;
@@ -40,7 +40,7 @@ graph TD;
 ### **Career:** <br>
 
 <details><summary>Click here</summary>
-
+           
 ```mermaid
 graph TD;
     ImageEditor&Designer-2019-20-->FreelanceDesigner-2020-21;
