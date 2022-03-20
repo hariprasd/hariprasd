@@ -25,3 +25,7 @@ I have *3 year* experience in *UIUX Design* and I have *audited the Google's Pro
 Hari Prasad B © <br>
 
 [![](https://i.ibb.co/N6429RC/HP-digital-Sign-white-1.png)](#)
+
+```diff
+# Note : Optimized for Viewing with a Verified✅ Github account
+```
