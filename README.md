@@ -47,8 +47,3 @@ graph TD;
 Hari Prasad B © <br>
 
 [![](https://i.ibb.co/N6429RC/HP-digital-Sign-white-1.png#gh-dark-mode-only)](#) <br>
-
-
-
->This file is Optimized for Viewing with a **Verified Github account** ✅
-
