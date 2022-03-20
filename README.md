@@ -17,7 +17,7 @@
  Looking to collaborate on **UX Support and Design Projects** <br>
  & Contract based Projects
 
-### **Personal Description:** <br>
+### **Short Description:** <br>
 <details><summary>Click here</summary>
 
 - I have *4 years* of field experience and I have contributed to *15+ startups* in their growth<br>
