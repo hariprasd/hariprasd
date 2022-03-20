@@ -8,7 +8,8 @@
 [![](https://i.ibb.co/K002Xwc/image-7.png)](https://www.linkedin.com/in/hari-prasd/)
 <br>
 
-[![](https://i.ibb.co/CQsvwx8/Group-37.png)](https://drive.google.com/drive/folders/14ikSuvyYcKh3odfntSc-SAc77GHmYFGX?usp=sharing)
+[![](https://i.ibb.co/CQsvwx8/Group-37.png)](https://drive.google.com/drive/folders/14ikSuvyYcKh3odfntSc-SAc77GHmYFGX?usp=sharing)<br>
+[![](https://i.ibb.co/q15prKr/Group-38.png)](https://drive.google.com/file/d/12wljs3wGMBA10BSnOCEtHpR1ZvXcyWh6/view?usp=sharing)
 ### `hello, World ❤️`<br>
 ## I’m **@hariprasd** <br>
  I’m a **UI UX (App, Web, Wearables & Web3), General Designer** *(3years)* <br>
@@ -26,8 +27,26 @@
 
 </details>
 
+### **Education:** <br>
+<details><summary>Click here</summary>
+ 
+```mermaid
+graph TD;
+    MiltonMatriculationSchool-SSLC-->RKShreeRangammalKalviNilayam-HSC;
+    RKShreeRangammalKalviNilayam-HSC-->AhaliaSchoolOfEngineeringAndTechnology-B.Tech;
+```
+</details>
 
-
+### **Career:** <br>
+<details><summary>Click here</summary>
+ 
+```mermaid
+graph TD;
+    ImageEditor&Designer-2019-20-->FreelanceDesigner-2020-21;
+    FreelanceDesigner-2020-21-->UIUX-Designer-Incus.inc;
+```
+</details>
+ 
 ### **Contact for Collaborations 👉** [^1] <br>
 [^1]: Click the Icons provided in the top, to navigate to respective Links 
 #### Mobile +91 9345160259
