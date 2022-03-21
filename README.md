@@ -32,10 +32,10 @@
 
 ```mermaid
 graph TD;
-    MiltonMatriculationSchool-SSLC-2017-->RKShreeRangammalKalviNilayam-HSC-2019;
-    RKShreeRangammalKalviNilayam-HSC-2019-->AhaliaSchoolOfEngineeringAndTechnology-B.Tech-2019-23;
-    ImageEditor&Designer-2019-20-->FreelanceDesigner-2020-21;
-    FreelanceDesigner-2020-21-->UIUX-Designer-Incus.inc-2021-Present;
+    A([MiltonMatriculationSchool-SSLC-2017])-->B([RKShreeRangammalKalviNilayam-HSC-2019]);
+    B([RKShreeRangammalKalviNilayam-HSC-2019])-->C([AhaliaSchoolOfEngineeringAndTechnology-B.Tech-2019-23]);
+    D([ImageEditor&Designer-2019-20])-->E([FreelanceDesigner-2020-21]);
+    E([FreelanceDesigner-2020-21])-->F([UIUX-Designer-Incus.inc-2021-Present]);
 ```
 </details>
 
