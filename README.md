@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/hariprasd"><img src="https://api.daily.dev/devcards/6a1ec82559334ea9b4dff8bf64d2ad84.png?r=b8s" width="180" alt="Hari Prasad Designer's Dev Card"/></a>
+<a href="https://app.daily.dev/hariprasd"><img src="https://api.daily.dev/devcards/6a1ec82559334ea9b4dff8bf64d2ad84.png?r=b8s" width="175" alt="Hari Prasad Designer's Dev Card"/></a>
 <br>
 [![](https://i.ibb.co/4SGzBnh/image-1.png)](https://www.facebook.com/hriprasd)
 [![](https://i.ibb.co/bJgKQ6Q/image-2.png)](https://instagram.com/haripras.d)
@@ -12,7 +12,8 @@
 [![](https://i.ibb.co/q15prKr/Group-38.png)](https://drive.google.com/file/d/12wljs3wGMBA10BSnOCEtHpR1ZvXcyWh6/view?usp=sharing)
 ### `hello, World ❤️`<br>
 ## I’m **@hariprasd** <br>
- I’m a **UI UX (App, Web, Wearables & Web3), General Designer** *(3years)* <br>
+ I’m a **Product Designer (App, Web, Wearables & Web3) & General Designer** *(4years)* <br>
+ Founder [@DevignX](https://github.com/devignx) -> [Check Website](https://devignx.herokuapp.com/)<br><br>
  Currently getting into **3D NFT creation & Motion Design** <br>
  Looking to collaborate on **UX Support and Design Projects** <br>
  & Contract based Projects
