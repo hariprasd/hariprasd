@@ -1,5 +1,5 @@
-<a href="https://app.daily.dev/hariprasd"><img src="https://api.daily.dev/devcards/6a1ec82559334ea9b4dff8bf64d2ad84.png?r=b8s" width="175" alt="Hari Prasad Designer's Dev Card"/></a>
-<br>
+<a href="https://app.daily.dev/hariprasd"><img src="https://api.daily.dev/devcards/6a1ec82559334ea9b4dff8bf64d2ad84.png?r=apa" width="175" alt="Hari Prasad Designer's Dev Card"/></a>
+<br><br>
 [![](https://i.ibb.co/4SGzBnh/image-1.png)](https://www.facebook.com/hriprasd)
 [![](https://i.ibb.co/bJgKQ6Q/image-2.png)](https://instagram.com/haripras.d)
 [![](https://i.ibb.co/ByBZstv/image-3.png)](https://wa.me/c/919345160259)
