@@ -18,6 +18,8 @@
  Looking to collaborate on **UX & Tech Support, Web Development and Design Projects** <br>
  Contract based Projects are preferred 
 
+------
+
 ### **Short Description:** <br>
 <details><summary>Click here</summary>
 
@@ -40,8 +42,9 @@ graph TD;
 ```
 </details>
 
-### Contact for Collaborations 👉<br>
-[^1]: Click the Icons provided in the top, to navigate to respective Links 
+------
+
+#### Contact for Collaborations<br>
 #### Mobile +91 9345160259
 
 ------
