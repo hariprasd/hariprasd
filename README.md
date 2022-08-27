@@ -11,7 +11,7 @@
 [![](https://i.ibb.co/CQsvwx8/Group-37.png)](https://drive.google.com/drive/folders/14ikSuvyYcKh3odfntSc-SAc77GHmYFGX?usp=sharing)<br>
 [![](https://i.ibb.co/q15prKr/Group-38.png)](https://drive.google.com/file/d/12wljs3wGMBA10BSnOCEtHpR1ZvXcyWh6/view?usp=sharing)
 ### `hello, World ❤️`<br>
-## I’m **@hariprasd** <br>
+## I’m **@hariprasd** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29"> <br>
  I’m a **Product Designer (App, Web, Wearables & Web3) & Art lover** <br>
  Founder [@DevignX](https://github.com/devignx) -> [Check Website](https://devignx.herokuapp.com/)<br><br>
  Currently getting into **3D NFT creation & Motion Design** <br>
