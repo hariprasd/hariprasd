@@ -40,11 +40,10 @@ graph TD;
 ```
 </details>
 
-### **Contact for Collaborations 👉** [^1] <br>
+### Contact for Collaborations 👉<br>
 [^1]: Click the Icons provided in the top, to navigate to respective Links 
 #### Mobile +91 9345160259
 
 ------
 Hari Prasad B © <br>
 
-[![](https://i.ibb.co/N6429RC/HP-digital-Sign-white-1.png#gh-dark-mode-only)](#) <br>
