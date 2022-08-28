@@ -51,4 +51,8 @@ graph TD;
 Hari Prasad B © <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19"> <br>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=hariprasd.hariprasd)
-
+## 📈 Stats
+<p align="center">	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hariprasd&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hariprasd&theme=tokyonight" />
+</p>
