@@ -8,23 +8,26 @@
 [![](https://i.ibb.co/K002Xwc/image-7.png)](https://www.linkedin.com/in/hari-prasd/)
 <br>
 
-<a target ="_blank" href="https://drive.google.com/drive/folders/14ikSuvyYcKh3odfntSc-SAc77GHmYFGX?usp=sharing"><img src="https://i.ibb.co/CQsvwx8/Group-37.png" width="175" alt="Project Files"/></a>
-[![]()]()<br>
-[![](https://i.ibb.co/q15prKr/Group-38.png)](https://drive.google.com/file/d/12wljs3wGMBA10BSnOCEtHpR1ZvXcyWh6/view?usp=sharing)
+<a target ="_blank" href="https://drive.google.com/drive/folders/14ikSuvyYcKh3odfntSc-SAc77GHmYFGX?usp=sharing"><img src="https://user-images.githubusercontent.com/75234157/187379256-afdff1c4-dee0-4a1a-a9a8-56998d6ba723.png" width="175" alt="Drive Project Files"/></a><br>
+ <a target ="_blank" href="https://teamyash.herokuapp.com"><img src="https://user-images.githubusercontent.com/75234157/187378610-d9a09faa-2348-4732-bb5c-fc14b02eff39.png" width="175" alt="Static Web Projects"/></a><br>
+<a target ="_blank" href="https://drive.google.com/file/d/1mpsNdGW-9LavtDhhbCX1dBWqvFXDtGE6/view?usp=sharing"><img src="https://user-images.githubusercontent.com/75234157/187379669-82b9d6d5-482b-46d3-8ff2-1a0c746d8457.png" width="175" alt="My Resume"/></a>
+
 ### `hello, World ❤️`<br>
 ## I’m **@hariprasd** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="69"> <br>
- I’m a **Product Designer (App, Web, Wearables & Web3) & Art lover** <br>
- Founder [@DevignX](https://github.com/devignx) -> [Check Website](https://devignx.herokuapp.com/)<br><br>
+ I’m a **Product Designer & Artist** <br>
+ The Face behind [@DevignX ↗︎](https://github.com/devignx) -> [Check Website ↗︎](https://devignx.herokuapp.com/)<br><br>
  Currently getting into **3D NFT creation & Motion Design** <br>
  Looking to collaborate on **UX & Tech Support, Web Development and Design Projects** <br>
- Contract based Projects are preferred 
+ Contract based Projects are preferred <br><br>
+ [Learn More About DevignX ↗︎](https://github.com/sponsors/hariprasd)
+<br><br> 
 
 ------
 
 ### **Short Description:** <br>
 <details><summary>Click here</summary>
 
-- I have *4 years* of field experience and I have contributed to *15+ startups* in their growth<br>
+- I have *4 years* of Design experience and I have contributed to *15+ startups* in their growth<br>
 - I always loved to *collaborate with the budding businesses & small scale startups*<br>
 - I have *3 year* experience in *UIUX Design* and I have *audited the Google's Professional Course on UXD*<br>
 - I am professional with *Figma, XD, Photoshop, Illustrator, Blender, InDesign, and a intermediatory level programming* <br><br>
