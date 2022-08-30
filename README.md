@@ -15,7 +15,7 @@
 ### `hello, World ❤️`<br>
 ## I’m **@hariprasd** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="69"> <br>
  I’m a **Product Designer & Artist** <br>
- The Face behind [@DevignX ↗︎](https://github.com/devignx) -> [Check Website ↗︎](https://devignx.herokuapp.com/)<br><br>
+ The Face behind [@DevignX ↗︎](https://github.com/devignx) - [Check Website ↗︎](https://devignx.herokuapp.com/)<br><br>
  Currently getting into **3D NFT creation & Motion Design** <br>
  Looking to collaborate on **UX & Tech Support, Web Development and Design Projects** <br>
  Contract based Projects are preferred <br><br>
@@ -27,10 +27,11 @@
 ### **Short Description:** <br>
 <details><summary>Click here</summary>
 
-- I have *4 years* of Design experience and I have contributed to *15+ startups* in their growth<br>
-- I always loved to *collaborate with the budding businesses & small scale startups*<br>
+- I have *4 years* of Design experience and I have contributed to *25+ startups* in their Visual presence & Digital growth 🚀<br>
+- I always loved to collaborate with the budding businesses & small scale startups ⚙️<br>
 - I have *3 year* experience in *UIUX Design* and I have *audited the Google's Professional Course on UXD*<br>
-- I am professional with *Figma, XD, Photoshop, Illustrator, Blender, InDesign, and a intermediatory level programming* <br><br>
+- I am professional with *Figma, Photoshop, Illustrator and whole Adobe suite, Blender,  and a mediocre developer & coder* <br><br>
+- Learnt Technologies & Tools like Git, Heroku, Vercel, Node, AI & ML etc.. & Languages like Py, Js, C etc..
 
 </details>
 
