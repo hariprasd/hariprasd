@@ -8,7 +8,8 @@
 [![](https://i.ibb.co/K002Xwc/image-7.png)](https://www.linkedin.com/in/hari-prasd/)
 <br>
 
-[![](https://i.ibb.co/CQsvwx8/Group-37.png)](https://drive.google.com/drive/folders/14ikSuvyYcKh3odfntSc-SAc77GHmYFGX?usp=sharing)<br>
+<a target ="_blank" href="https://drive.google.com/drive/folders/14ikSuvyYcKh3odfntSc-SAc77GHmYFGX?usp=sharing"><img src="https://i.ibb.co/CQsvwx8/Group-37.png" width="175" alt="Project Files"/></a>
+[![]()]()<br>
 [![](https://i.ibb.co/q15prKr/Group-38.png)](https://drive.google.com/file/d/12wljs3wGMBA10BSnOCEtHpR1ZvXcyWh6/view?usp=sharing)
 ### `hello, World ❤️`<br>
 ## I’m **@hariprasd** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="69"> <br>
