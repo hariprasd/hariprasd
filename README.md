@@ -8,9 +8,9 @@
 [![](https://i.ibb.co/K002Xwc/image-7.png)](https://www.linkedin.com/in/hari-prasd/)
 <br>
 
-<a target ="_blank" href="https://drive.google.com/drive/folders/14ikSuvyYcKh3odfntSc-SAc77GHmYFGX?usp=sharing"><img src="https://user-images.githubusercontent.com/75234157/187379256-afdff1c4-dee0-4a1a-a9a8-56998d6ba723.png" width="175" alt="Drive Project Files"/></a><br>
- <a target ="_blank" href="https://teamyash.herokuapp.com"><img src="https://user-images.githubusercontent.com/75234157/187378610-d9a09faa-2348-4732-bb5c-fc14b02eff39.png" width="175" alt="Static Web Projects"/></a><br>
-<a target ="_blank" href="https://drive.google.com/file/d/1mpsNdGW-9LavtDhhbCX1dBWqvFXDtGE6/view?usp=sharing"><img src="https://user-images.githubusercontent.com/75234157/187379669-82b9d6d5-482b-46d3-8ff2-1a0c746d8457.png" width="175" alt="My Resume"/></a>
+<a href="https://drive.google.com/drive/folders/14ikSuvyYcKh3odfntSc-SAc77GHmYFGX?usp=sharing" target="_blank"><img src="https://user-images.githubusercontent.com/75234157/187379256-afdff1c4-dee0-4a1a-a9a8-56998d6ba723.png" width="175" alt="Drive Project Files" /></a><br>
+<a href="https://teamyash.herokuapp.com" target="_blank"><img src="https://user-images.githubusercontent.com/75234157/187378610-d9a09faa-2348-4732-bb5c-fc14b02eff39.png" width="175" alt="Static Web Projects"/></a><br>
+<a href="https://drive.google.com/file/d/1mpsNdGW-9LavtDhhbCX1dBWqvFXDtGE6/view?usp=sharing" target="_blank"><img src="https://user-images.githubusercontent.com/75234157/187379669-82b9d6d5-482b-46d3-8ff2-1a0c746d8457.png" width="175" alt="My Resume"/></a>
 
 ### `hello, World ❤️`<br>
 ## I’m **@hariprasd** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="69"> <br>
