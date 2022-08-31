@@ -59,9 +59,9 @@ graph TD;
 #### Mobile +91 9345160259
 
 ------
-Hari Prasad B © <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19"> <br>
+Hari Prasad B © <br>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=hariprasd.hariprasd)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=hariprasd.hariprasd) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19"> 
 ## 📈 Stats
 <p align="center">	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hariprasd&show_icons=true&theme=tokyonight" />
