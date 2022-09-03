@@ -75,4 +75,4 @@ Hari Prasad B ©  <br>
 </p>
 <br>
 
-<div align = center> PS: I make this README template open for all, give it a star & customize it for yourself 🚀</div>
+<div align = center> PS: I made this README template open for all, give it a star, Use this as template & customize it for yourself 🚀</div>
