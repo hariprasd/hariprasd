@@ -21,12 +21,18 @@
 
 ## I’m **@hariprasd** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="69"> <br>
  I’m a **Product Designer & Artist** <br>
- The Face behind [@DevignX ↗︎](https://github.com/devignx) - [Check Website ↗︎](https://devignx.herokuapp.com/)<br><br>
- Currently getting into **3D NFT creation & Motion Design** <br>
- Looking to collaborate on **UX & Tech Support, Web Development and Design Projects** <br>
- Contract based Projects are preferred <br><br>
- [Learn More About DevignX ↗︎](https://github.com/sponsors/hariprasd)
-<br><br> 
+ The Face behind [@DevignX ↗︎](https://github.com/devignx) - [Check Website ↗︎](https://devignx.herokuapp.com/) - [Learn More About DevignX ↗︎](https://github.com/sponsors/hariprasd)<br>
+
+<details><summary>#OpenToWork</summary>
+
+- Product Design (UIUX)
+- Graphic Design
+- Brand Design & Development Strategy
+- Tech Support
+- SEO & SMO
+and more....
+
+</details> 
 
 ------
 
@@ -46,24 +52,27 @@
 
 ```mermaid
 graph TD;
-    A(Milton Matriculation School -SSLC-2017)-->B(R K Shree Rangammal Kalvi Nilayam -HSC-2019);
-    B(R K Shree Rangammal Kalvi Nilayam -HSC-2019)-->C(Ahalia School Of Engineering And Technology -B.Tech-2019-23);
-    D(Image Editor & Designer -2019-20)-->E(Freelance Designer -2020-21);
-    E(Freelance Designer -2020-21)-->F(UIUX Designer at Incus.inc-2021-Present);
+    A(Milton Matriculation School -SSLC-2017):::fb -->B(R K Shree Rangammal Kalvi Nilayam -HSC-2019):::fb;
+    B(R K Shree Rangammal Kalvi Nilayam -HSC-2019):::fb-->C(Ahalia School Of Engineering And Technology -B.Tech-2019-23):::fb;
+    D(Image Editor & Designer -2019-20):::fb-->E(Freelance Designer -2020-21):::fb;
+    E(Freelance Designer -2020-21):::fb-->F(UIUX Designer at Incus.inc-2021):::fb;
+    F(UIUX Designer at Incus.inc-2021):::fb-->G(Founder & Designer at DevignX -2022):::fb;
+    classDef fb fill:#000
 ```
 </details>
 
 ------
 
-#### Contact for Collaborations<br>
-#### Mobile +91 9345160259
-
-------
-Hari Prasad B © <br>
+#### Contact for Collaborations +91 9345160259 <br>
+Hari Prasad B ©  <br>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=hariprasd.hariprasd) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19"> 
+
 ## 📈 Stats
 <p align="center">	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hariprasd&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hariprasd&theme=tokyonight" />
 </p>
+<br>
+
+<div align = center> PS: I make this README template open for all, give it a star & customize it for yourself 🚀</div>
