@@ -1,6 +1,4 @@
-<div>
-  <a href="https://app.daily.dev/hariprasd"><img src="https://api.daily.dev/devcards/6a1ec82559334ea9b4dff8bf64d2ad84.png?r=apa" width="175" alt="Hari Prasad Designer's Dev Card"/></a>
-<br><br>
+# I’m **@hariprasd** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="69"> <br>
 <div>
 <a href="https://www.facebook.com/hriprasd" target="_blank"><img src="https://i.ibb.co/4SGzBnh/image-1.png" alt="Facebook" /></a>
 <a href="https://www.instagram.com/haripras.d" target="_blank"><img src="https://i.ibb.co/bJgKQ6Q/image-2.png" alt="Instagram" /></a>
@@ -14,16 +12,15 @@
 <a href="https://drive.google.com/drive/folders/14ikSuvyYcKh3odfntSc-SAc77GHmYFGX?usp=sharing" target="_blank"><img src="https://user-images.githubusercontent.com/75234157/187379256-afdff1c4-dee0-4a1a-a9a8-56998d6ba723.png" width="175" alt="Drive Project Files" /></a><br>
 <a href="https://teamyash.herokuapp.com" target="_blank"><img src="https://user-images.githubusercontent.com/75234157/187378610-d9a09faa-2348-4732-bb5c-fc14b02eff39.png" width="175" alt="Static Web Projects"/></a><br>
 <a href="https://drive.google.com/file/d/1mpsNdGW-9LavtDhhbCX1dBWqvFXDtGE6/view?usp=sharing" target="_blank"><img src="https://user-images.githubusercontent.com/75234157/187379669-82b9d6d5-482b-46d3-8ff2-1a0c746d8457.png" width="175" alt="My Resume"/></a>
-### `hello, World ❤️`<br>
+> ctrl + click these icons to open in new tab <br>
 </div>
 
 -----
 
-## I’m **@hariprasd** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="69"> <br>
  I’m a **Product Designer & Artist** <br>
  The Face behind [@DevignX ↗︎](https://github.com/devignx) - [Check Website ↗︎](https://devignx.herokuapp.com/) - [Learn More About DevignX ↗︎](https://github.com/sponsors/hariprasd)<br>
 
-<details><summary>#OpenToWork</summary>
+<details><summary>#OpenToWork at</summary>
 
 - Product Design (UIUX)
 - Graphic Design
@@ -42,8 +39,8 @@ and more....
 - I have *4 years* of Design experience and I have contributed to *25+ startups* in their Visual presence & Digital growth 🚀<br>
 - I always loved to collaborate with the budding businesses & small scale startups ⚙️<br>
 - I have *3 year* experience in *UIUX Design* and I have *audited the Google's Professional Course on UXD*<br>
-- I am professional with *Figma, Photoshop, Illustrator and whole Adobe suite, Blender,  and a mediocre developer & coder* <br><br>
-- Learnt Technologies & Tools like Git, Heroku, Vercel, Node, AI & ML etc.. & Languages like Py, Js, C etc..
+- I am professional with *Figma, Photoshop, Illustrator and whole Adobe suite, Blender,  and a mediocre developer & coder* 
+- Learnt Technologies & Tools like Git, Heroku, Vercel, Node, AI & ML etc.. & Languages like Py, Js, C etc.. <br><br>
 
 </details>
 
@@ -57,7 +54,7 @@ graph TD;
     D(Image Editor & Designer -2019-20):::fb-->E(Freelance Designer -2020-21):::fb;
     E(Freelance Designer -2020-21):::fb-->F(UIUX Designer at Incus.inc-2021):::fb;
     F(UIUX Designer at Incus.inc-2021):::fb-->G(Founder & Designer at DevignX -2022):::fb;
-    classDef fb fill:#000
+    classDef fb fill:##808080
 ```
 </details>
 
