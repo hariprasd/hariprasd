@@ -72,4 +72,5 @@ Hari Prasad B ©  <br>
 </p>
 <br>
 
-<div align = center> PS: I made this README template open for all, give it a star, Use this as template & customize it for yourself 🚀</div>
+<div align = center> PS: I made this README template open for all, give it a star, Use this as template & customize it for yourself 🚀 <br><a href="https://github.com/hariprasd/hariprasd/raw/main/readme-hariprasd.pdf">Click here to download this README as PDF ↓</a>
+</div>
