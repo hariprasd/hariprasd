@@ -7,6 +7,7 @@ I am a passionate B.Tech student (expecting 2023 pass out)& Design enthusiast (D
 I have & would love to contribute to early stage startups & established companies in their visual presence & meanwhile make an earning out of it.
 </details>
 
+***
 
 I am primarily an Artist & Designer, who creates user & dev friendly designs.
 
