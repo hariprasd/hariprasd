@@ -42,5 +42,4 @@ https://devignx.herokuapp.com/
 > ctrl + click these icons to open in new tab <br>
 </div>
 
-[Download this Coverletter](https://github.com/hariprasd/hariprasd/raw/main/coverletter-hariprasd.pdf)
-
+[Download this Coverletter ↓](https://github.com/hariprasd/hariprasd/raw/main/coverletter-hariprasd.pdf)
