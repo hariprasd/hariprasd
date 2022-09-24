@@ -9,9 +9,9 @@
 </div>
 <br>
 
-<a href="https://drive.google.com/drive/folders/14ikSuvyYcKh3odfntSc-SAc77GHmYFGX?usp=sharing" target="_blank"><img src="https://user-images.githubusercontent.com/75234157/187379256-afdff1c4-dee0-4a1a-a9a8-56998d6ba723.png" width="175" alt="Drive Project Files" /></a><br>
-<a href="https://teamyash.herokuapp.com" target="_blank"><img src="https://user-images.githubusercontent.com/75234157/187378610-d9a09faa-2348-4732-bb5c-fc14b02eff39.png" width="175" alt="Static Web Projects"/></a><br>
-<a href="https://drive.google.com/file/d/1mpsNdGW-9LavtDhhbCX1dBWqvFXDtGE6/view?usp=sharing" target="_blank"><img src="https://user-images.githubusercontent.com/75234157/187379669-82b9d6d5-482b-46d3-8ff2-1a0c746d8457.png" width="175" alt="My Resume"/></a>
+<a href="https://drive.google.com/drive/folders/14ikSuvyYcKh3odfntSc-SAc77GHmYFGX?usp=sharing" target="_blank"><img src="https://user-images.githubusercontent.com/75234157/192087180-0421ad12-647d-4fb6-b4fb-26996739dd3e.png" width="175" alt="Drive Project Files" /></a><br>
+<a href="https://teamyash.herokuapp.com" target="_blank"><img src="https://user-images.githubusercontent.com/75234157/192087078-fdc7a2cf-3a10-4ebb-ba95-23f43e4b1afe.png" width="175" alt="Static Web Projects"/></a><br>
+<a href="https://drive.google.com/file/d/1mpsNdGW-9LavtDhhbCX1dBWqvFXDtGE6/view?usp=sharing" target="_blank"><img src="https://user-images.githubusercontent.com/75234157/192087198-10a168a4-6997-4cee-8c90-bfa33fcc9703.png" width="175" alt="My Resume"/></a>
 > ctrl + click these icons to open in new tab <br>
 </div>
 
@@ -38,7 +38,7 @@ and more....
 
 - I have *4 years* of Design experience and I have contributed to *25+ startups* in their Visual presence & Digital growth 🚀<br>
 - I always loved to collaborate with the budding businesses & small scale startups ⚙️<br>
-- I have *3 year* experience in *UIUX Design* and I have *audited the Google's Professional Course on UXD*<br>
+- I have *4 year* experience in *UIUX Design* and I have *audited the Google's Professional Course on UXD*<br>
 - I am professional with *Figma, Photoshop, Illustrator and whole Adobe suite, Blender,  and a mediocre developer & coder* 
 - Learnt Technologies & Tools like Git, Heroku, Vercel, Node, AI & ML etc.. & Languages like Py, Js, C etc.. <br><br>
 
