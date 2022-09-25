@@ -17,7 +17,7 @@
 
 -----
 
- I’m a **Product Designer & Artist** <br>
+ I’m an Ărtist and a **Product Designer** <br>
  The Face behind [@DevignX ↗︎](https://github.com/devignx) - [Check Website ↗︎](https://devignx.herokuapp.com/) - [Learn More About DevignX ↗︎](https://github.com/sponsors/hariprasd)<br>
 
 <details><summary>#OpenToWork at</summary>
@@ -41,6 +41,7 @@ and more....
 - I have *4 year* experience in *UIUX Design* and I have *audited the Google's Professional Course on UXD*<br>
 - I am professional with *Figma, Photoshop, Illustrator and whole Adobe suite, Blender,  and a mediocre developer & coder* 
 - Learnt Technologies & Tools like Git, Heroku, Vercel, Node, AI & ML etc.. & Languages like Py, Js, C etc.. <br><br>
+Check my [cover letter ↗︎](https://github.com/hariprasd/hariprasd/blob/main/coverletter.md)<br><br>
 
 </details>
 
