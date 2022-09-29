@@ -1,11 +1,11 @@
 # I’m **@hariprasd** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="69"> <br>
 <div>
-<a href="https://www.facebook.com/hriprasd" target="_blank"><img src="https://i.ibb.co/4SGzBnh/image-1.png" alt="Facebook" /></a>
-<a href="https://www.instagram.com/haripras.d" target="_blank"><img src="https://i.ibb.co/bJgKQ6Q/image-2.png" alt="Instagram" /></a>
-<a href="https://wa.me/c/919345160259" target="_blank"><img src="https://i.ibb.co/qNps1dh/image-3.png" alt="Whatsapp" /></a>
-<a href="https://www.behance.net/hariprasd" target="_blank"><img src="https://i.ibb.co/g9z5Q3F/image-4.png" alt="Behance" /></a>
-<a href="https://twitter.com/haripras_d" target="_blank"><img src="https://i.ibb.co/WnGRMd4/image-5.png" alt="Twitter" /></a>
-<a href="https://www.linkedin.com/in/hari-prasd/" target="_blank"><img src="https://i.ibb.co/qyyNd5L/image-7.png" alt="LinkedIn" /></a>
+<a href="https://www.facebook.com/hriprasd" target="_blank"><img src="https://i.ibb.co/4SGzBnh/image-1.png" width="40" alt="Facebook" /></a>
+<a href="https://www.instagram.com/haripras.d" target="_blank"><img src="https://i.ibb.co/bJgKQ6Q/image-2.png" width="40" alt="Instagram" /></a>
+<a href="https://wa.me/c/919345160259" target="_blank"><img src="https://i.ibb.co/qNps1dh/image-3.png" width="40" alt="Whatsapp" /></a>
+<a href="https://www.behance.net/hariprasd" target="_blank"><img src="https://i.ibb.co/g9z5Q3F/image-4.png" width="40" alt="Behance" /></a>
+<a href="https://twitter.com/haripras_d" target="_blank"><img src="https://i.ibb.co/WnGRMd4/image-5.png" width="40" alt="Twitter" /></a>
+<a href="https://www.linkedin.com/in/hari-prasd/" target="_blank"><img src="https://i.ibb.co/qyyNd5L/image-7.png" width="40" alt="LinkedIn" /></a>
 </div>
 <br>
 
