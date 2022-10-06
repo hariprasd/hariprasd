@@ -66,12 +66,15 @@ Hari Prasad B ©  <br>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=hariprasd.hariprasd) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19"> 
 
+<!--
 ## 📈 Stats
 <p align="center">	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hariprasd&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hariprasd&theme=tokyonight" />
 </p>
+-->
 <br>
+
 
 <div align = center> PS: I made this README template open for all, give it a star, Use this as template & customize it for yourself 🚀 <br><a href="https://github.com/hariprasd/hariprasd/raw/main/readme-hariprasd.pdf">Click here to download this README as PDF ↓</a>
 </div>
