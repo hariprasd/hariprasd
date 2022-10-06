@@ -17,7 +17,7 @@
 
 -----
 
- I’m an Ărtist and a **Product Designer** <br>
+ I’m an Λrtist and a **Product Designer** <br>
  The Face behind [@DevignX ↗︎](https://github.com/devignx) - [Check Website ↗︎](https://devignx.herokuapp.com/) - [Learn More About DevignX ↗︎](https://github.com/sponsors/hariprasd)<br>
 
 <details><summary>#OpenToWork at</summary>
