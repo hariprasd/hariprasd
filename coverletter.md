@@ -43,4 +43,6 @@ https://devignx.herokuapp.com/
 > ctrl + click these icons to open in new tab <br>
 </div>
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=hariprasd.hariprasd/coverletter.md)
+
 [Download this Coverletter ↓](https://github.com/hariprasd/hariprasd/raw/main/coverletter-hariprasd.pdf)
