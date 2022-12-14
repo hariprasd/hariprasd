@@ -9,21 +9,21 @@ I have & would love to contribute to early stage startups & established companie
 
 ***
 
-I am primarily an Artist & Designer, who creates user & dev friendly designs.
+I am primarily an Artist & Designer, who creates user & dev friendly designs. [Check my Website](https://hariprasd.me)
 
 I have freelanced for 4 years as a Designer and I have contributed to 30+ start-ups in their Visual presence (Since 2018)
 
 4 year experience in Graphic Design & 2 year experience in Product Design, I have a eye on keen details in visual aesthetics & usability.
 **The Google's Professional Course on UXD** was my foundation & It has helped me a lot in my career by making me understand the user mindset & made me to view things from their perspective, I am professional with **Figma, XD, Photoshop, Illustrator, Blender, InDesign** and I'm also that Geeky friend who is called for installing Python, or for course or career suggestions. I love to automate boring stuff with code. I have learnt **Front-end Development** by myself, as I said I am not only user-friendly but also developer-friendly
 
-I am interested in Softwares since I got into my degree, I love problem solving with **Js & Python**, I haven't done any course on that, but I know how to use Google & Stackoverflow to solve my problems, and I have made some **web development & machine learning projects** for my college & some for commercial purposes - https://teamyash.herokuapp.com
+I am interested in Softwares since I got into my degree, I love problem solving with **Js & Python**, I haven't done any course on that, but I know how to use Google & Stackoverflow to solve my problems, and I have made some **web development & machine learning projects** for my college & some for commercial purposes.
 
 I have worked at Incus.inc, NJ as **Fullstack Designer who designs Graphical assets, posters, web page content, Logo and  Interfaces of every app and its respective web app they own** - https://vongo.ai/
 
 I love to contribute the start-ups in their growth by giving them **best user experience and beautiful visuals**, meanwhile making my own money.
 
 Recently, I've created a Brand to showcase my Expertise in Branding & Design -
-https://devignx.herokuapp.com/
+https://devignx.hariprasd.me
 
 ## Some important Links
 
