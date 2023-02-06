@@ -1,4 +1,4 @@
-# I’m **@hariprasd** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="69"> <br>
+# I’m **[@hariprasd](https://hariprasd.me)** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="69"> <br>
 <div>
 <a href="https://www.facebook.com/hriprasd" target="_blank"><img src="https://i.ibb.co/4SGzBnh/image-1.png" width="30" alt="Facebook" /></a>
 <a href="https://www.instagram.com/haripras.d" target="_blank"><img src="https://i.ibb.co/bJgKQ6Q/image-2.png" width="30" alt="Instagram" /></a>
@@ -16,8 +16,8 @@
 
 -----
 
- I’m an Λrtist and a **Product Designer** <br>
- The Face behind [@DevignX ↗︎](https://github.com/devignx) - [Check Website ↗︎](https://devignx.herokuapp.com/) - [Learn More About DevignX ↗︎](https://github.com/sponsors/hariprasd)<br>
+ I’m an Λrtist, a **Product Designer** & a **Front End Dev** <br>
+ The Face behind [@DevignX ↗︎](https://github.com/devignx) - [Check Website ↗︎](https://devignx.hariprasd.me/) - [Learn More About DevignX ↗︎](https://github.com/sponsors/hariprasd)<br>
 
 <details><summary>#OpenToWork at</summary>
 
