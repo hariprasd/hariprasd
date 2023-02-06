@@ -10,7 +10,6 @@
 <br>
 
 <a href="https://drive.google.com/drive/folders/14ikSuvyYcKh3odfntSc-SAc77GHmYFGX?usp=sharing" target="_blank"><img src="https://user-images.githubusercontent.com/75234157/192087180-0421ad12-647d-4fb6-b4fb-26996739dd3e.png" width="175" alt="Drive Project Files" /></a><br>
-<a href="https://teamyash.herokuapp.com" target="_blank"><img src="https://user-images.githubusercontent.com/75234157/192087078-fdc7a2cf-3a10-4ebb-ba95-23f43e4b1afe.png" width="175" alt="Static Web Projects"/></a><br>
 <a href="https://drive.google.com/file/d/1mpsNdGW-9LavtDhhbCX1dBWqvFXDtGE6/view?usp=sharing" target="_blank"><img src="https://user-images.githubusercontent.com/75234157/192087198-10a168a4-6997-4cee-8c90-bfa33fcc9703.png" width="175" alt="My Resume"/></a>
 > ctrl + click these icons to open in new tab <br>
 </div>
