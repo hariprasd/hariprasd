@@ -16,16 +16,17 @@
 
 -----
 
- I’m an Λrtist, a **Product Designer** & a **Front End Dev** <br>
+ I’m an Λrtist, a **Creative Designer** & a **Front End Dev** <br>
  The Face behind [@DevignX ↗︎](https://github.com/devignx) - [Check Website ↗︎](https://devignx.hariprasd.me/) - [Learn More About DevignX ↗︎](https://github.com/sponsors/hariprasd)<br>
 
-<details><summary>#OpenToWork at</summary>
+<details><summary>#OpenToWork as</summary>
 
-- Product Design (UIUX)
-- Graphic Design
-- Brand Design & Development Strategy
-- Tech Support
-- SEO & SMO
+- Product Designer (UIUX)
+- Front End developer (React, Next Js)
+- Graphic Designer
+- Brand Designer
+- Tech Consultant
+- SEO & SMO expert
 and more....
 
 </details> 
