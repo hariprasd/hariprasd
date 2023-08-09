@@ -1,6 +1,6 @@
 I'm **Hari Prasad, the Face behind @DevignX**, A recently launched brand to showcase my expertise in Branding and design.<br>
 
-> **[DevignX](https://devignx.herokuapp.com/)** is a team of Developers, designers and technologists (All are my college mates) focused on building products that provide users with the best user experience and eye pleasing visuals.
+> **[DevignX](https://devignx.tech/)** is a team of Developers, designers and technologists (All are my college mates) focused on building products that provide users with the best user experience and eye pleasing visuals.
 
 <details><summary> #TLDR</summary>
 I am a passionate B.Tech student (expecting 2023 pass out)& Design enthusiast (Designing since 2018). Product(UIUX) Designer for 2 years & General Designer for 4 years
