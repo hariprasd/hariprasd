@@ -1,16 +1,16 @@
 <div align=center>
- <img width='100px' src='https://github.com/hariprasd/hariprasd/assets/75234157/322229df-af10-415c-9856-7bd78c480d50'/><br/>
- <strong><h2>Hariprasad • Designer • Developer</h1></strong>
+ <a href='https://hariprasd.me' target='_blank'><img width='100px' src='https://github.com/hariprasd/hariprasd/assets/75234157/322229df-af10-415c-9856-7bd78c480d50'/><br/></a>
+ <h1><a href='https://hariprasd.me'>Hariprasad • Designer • Developer</a></h1>
 </div>
-<div align=center>
-<a href="https://www.facebook.com/hriprasd" target="_blank"><img src="https://i.ibb.co/4SGzBnh/image-1.png" width="30" alt="Facebook" /></a>
-<a href="https://www.instagram.com/haripras.d" target="_blank"><img src="https://i.ibb.co/bJgKQ6Q/image-2.png" width="30" alt="Instagram" /></a>
-<a href="https://wa.me/c/919345160259" target="_blank"><img src="https://i.ibb.co/qNps1dh/image-3.png" width="30" alt="Whatsapp" /></a>
-<a href="https://www.behance.net/hariprasd" target="_blank"><img src="https://i.ibb.co/g9z5Q3F/image-4.png" width="30" alt="Behance" /></a>
-<a href="https://twitter.com/haripras_d" target="_blank"><img src="https://i.ibb.co/WnGRMd4/image-5.png" width="30" alt="Twitter" /></a>
-<a href="https://www.linkedin.com/in/hariprasd/" target="_blank"><img src="https://i.ibb.co/qyyNd5L/image-7.png" width="30" alt="LinkedIn" /></a>
-</div>
-<br><br><br>
+<!-- <div align=center>
+<a href="https://www.facebook.com/hriprasd" target="_blank"><img src="https://github.com/hariprasd/hariprasd/assets/75234157/45b44cda-dc74-4d9f-b551-4e6425fcab24" height="30" alt="Facebook" /></a> • 
+<a href="https://www.instagram.com/haripras.d" target="_blank"><img src="https://github.com/hariprasd/hariprasd/assets/75234157/f910daee-d9e8-42ce-8641-25caa90b76cf" height="30" alt="Instagram" /></a> • 
+<a href="https://wa.me/c/919345160259" target="_blank"><img src="https://github.com/hariprasd/hariprasd/assets/75234157/6692ac48-823b-4fb5-bd98-e05948262e06" height="30" alt="Whatsapp" /></a> • 
+<img src="https://github.com/hariprasd/hariprasd/assets/75234157/44b24a30-8186-49cb-90fe-a7bb98d89aa4" height="30" alt="Behance" />• 
+<img src="https://github.com/hariprasd/hariprasd/assets/75234157/3edb76a9-26dd-47dc-96c5-8f1d46d38212" height="30" alt="Twitter" />• 
+<img href="https://www.linkedin.com/in/hariprasd/" src="https://github.com/hariprasd/hariprasd/assets/75234157/9d5719cd-c00b-46eb-86f6-a39bb58fe26a" height="30" alt="LinkedIn" />
+</div> -->
+<br>
 
 I’m an Λrtist, a **Creative Designer** & a **Front End Dev** 
 & I'm Leading [@DevignX ↗︎](https://github.com/devignx) - [Check Website ↗︎](https://devignx.tech/) - [Learn More About DevignX ↗︎](https://github.com/sponsors/hariprasd)<br>
