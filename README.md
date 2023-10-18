@@ -1,5 +1,8 @@
-# I’m **[@hariprasd](https://hariprasd.me)** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="69"> <br>
-<div>
+<div align=center>
+ <img width='100px' src='https://github.com/hariprasd/hariprasd/assets/75234157/322229df-af10-415c-9856-7bd78c480d50'/><br/>
+ <strong><h2>Hariprasad • Designer • Developer</h1></strong>
+</div>
+<div align=center>
 <a href="https://www.facebook.com/hriprasd" target="_blank"><img src="https://i.ibb.co/4SGzBnh/image-1.png" width="30" alt="Facebook" /></a>
 <a href="https://www.instagram.com/haripras.d" target="_blank"><img src="https://i.ibb.co/bJgKQ6Q/image-2.png" width="30" alt="Instagram" /></a>
 <a href="https://wa.me/c/919345160259" target="_blank"><img src="https://i.ibb.co/qNps1dh/image-3.png" width="30" alt="Whatsapp" /></a>
@@ -7,19 +10,12 @@
 <a href="https://twitter.com/haripras_d" target="_blank"><img src="https://i.ibb.co/WnGRMd4/image-5.png" width="30" alt="Twitter" /></a>
 <a href="https://www.linkedin.com/in/hariprasd/" target="_blank"><img src="https://i.ibb.co/qyyNd5L/image-7.png" width="30" alt="LinkedIn" /></a>
 </div>
-<br>
+<br><br><br>
 
-<a href="https://drive.google.com/drive/folders/14ikSuvyYcKh3odfntSc-SAc77GHmYFGX?usp=sharing" target="_blank"><img src="https://user-images.githubusercontent.com/75234157/192087180-0421ad12-647d-4fb6-b4fb-26996739dd3e.png" width="175" alt="Drive Project Files" /></a><a>
-<a href="https://drive.google.com/file/d/1mpsNdGW-9LavtDhhbCX1dBWqvFXDtGE6/view?usp=sharing" target="_blank"><img src="https://user-images.githubusercontent.com/75234157/192087198-10a168a4-6997-4cee-8c90-bfa33fcc9703.png" width="175" alt="My Resume"/></a>
-> ctrl + click these icons to open in new tab <br>
-</div>
+I’m an Λrtist, a **Creative Designer** & a **Front End Dev** 
+& I'm Leading [@DevignX ↗︎](https://github.com/devignx) - [Check Website ↗︎](https://devignx.tech/) - [Learn More About DevignX ↗︎](https://github.com/sponsors/hariprasd)<br>
 
------
-
- I’m an Λrtist, a **Creative Designer** & a **Front End Dev** <br>
- The Face behind [@DevignX ↗︎](https://github.com/devignx) - [Check Website ↗︎](https://devignx.hariprasd.me/) - [Learn More About DevignX ↗︎](https://github.com/sponsors/hariprasd)<br>
-
-<details><summary>#OpenToWork as</summary>
+<details><summary>Previously worked as</summary>
 
 - Product Designer (UIUX)
 - Front End developer (React, Next Js)
@@ -33,7 +29,7 @@ and more....
 
 ------
 
-### **Short Description:** <br>
+### **Short Description:**
 <details><summary>Click here</summary>
 
 - I have *4 years* of Design experience and I have contributed to *25+ startups* in their Visual presence & Digital growth 🚀<br>
@@ -45,7 +41,7 @@ Check my [cover letter ↗︎](https://github.com/hariprasd/hariprasd/blob/main/
 
 </details>
 
-### **Education & Career** <br>
+### **Education & Career**
 <details><summary>Click here</summary>
 
 ```mermaid
@@ -55,13 +51,14 @@ graph TD;
     D(Image Editor & Designer -2019-20):::fb-->E(Freelance Designer -2020-21):::fb;
     E(Freelance Designer -2020-21):::fb-->F(UIUX Designer at Incus.inc-2021):::fb;
     F(UIUX Designer at Incus.inc-2021):::fb-->G(Founder & Designer at DevignX -2022):::fb;
-    classDef fb fill:##808080
+    G(Founder & Designer at DevignX -2022):::fb-->H(UIUX Developer at Metastart -2023):::fb;
+    classDef fb fill:#000
 ```
 </details>
 
 ------
 
-#### Contact for Collaborations +91 9345160259 <br>
+#### Contact for Collaborations +91 9345160259
 Hari Prasad B ©  <br>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=hariprasd.hariprasd) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19"> 
