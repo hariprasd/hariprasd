@@ -15,29 +15,14 @@
 I’m an Λrtist, a **Creative Designer** & a **Front End Dev** 
 & I'm Leading [@DevignX ↗︎](https://github.com/devignx) - [Check Website ↗︎](https://devignx.tech/) - [Learn More About DevignX ↗︎](https://github.com/sponsors/hariprasd)<br>
 
-<details><summary>Previously worked as</summary>
+<details><summary>I'm also a...</summary>
 
 - Product Designer (UIUX)
 - Front End developer (React, Next Js)
-- Graphic Designer
-- Brand Designer
+- Design Generalist (Branding, Graphics, 3d, Vector, wireframing, prototyping ...)
 - Tech Consultant
-- SEO & SMO expert
+- SEO & SMM Guy
 and more....
-
-</details> 
-
-------
-
-### **Short Description:**
-<details><summary>Click here</summary>
-
-- I have *4 years* of Design experience and I have contributed to *25+ startups* in their Visual presence & Digital growth 🚀<br>
-- I always loved to collaborate with the budding businesses & small scale startups ⚙️<br>
-- I have *4 year* experience in *UIUX Design* and I have *audited the Google's Professional Course on UXD*<br>
-- I am professional with *Figma, Photoshop, Illustrator and whole Adobe suite, Blender,  and a mediocre developer & coder* 
-- Learnt Technologies & Tools like Git, Heroku, Vercel, Node, AI & ML etc.. & Languages like Py, Js, C etc.. <br><br>
-Check my [cover letter ↗︎](https://github.com/hariprasd/hariprasd/blob/main/coverletter.md)<br><br>
 
 </details>
 
