@@ -14,7 +14,7 @@
 
 I’m an Λrtist, a **Creative Designer** & a **Front End Dev** 
 & I'm Leading [@DevignX ↗︎](https://github.com/devignx) - [Check Website ↗︎](https://devignx.tech/) - [Learn More About DevignX ↗︎](https://github.com/sponsors/hariprasd)<br>
-
+ps: if you're here to see my github stats - [Click here](https://github.com/devignx)
 <details><summary>I'm also a...</summary>
 
 - Product Designer (UIUX)
