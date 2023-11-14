@@ -23,7 +23,7 @@ I have worked at Incus.inc, NJ as **Fullstack Designer who designs Graphical ass
 I love to contribute the start-ups in their growth by giving them **best user experience and beautiful visuals**, meanwhile making my own money.
 
 Recently, I've created a Brand to showcase my Expertise in Branding & Design -
-https://devignx.hariprasd.me
+https://devignx.tech
 
 ## Some important Links
 
